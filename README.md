@@ -21,4 +21,20 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1801-average-time-of-process-per-machine](https://github.com/RookieJoel/LeetCode/tree/master/1801-average-time-of-process-per-machine) |
 | [1827-invalid-tweets](https://github.com/RookieJoel/LeetCode/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/RookieJoel/LeetCode/tree/master/1908-recyclable-and-low-fat-products) |
+## Array
+|  |
+| ------- |
+| [1706-min-cost-to-connect-all-points](https://github.com/RookieJoel/LeetCode/tree/master/1706-min-cost-to-connect-all-points) |
+## Union Find
+|  |
+| ------- |
+| [1706-min-cost-to-connect-all-points](https://github.com/RookieJoel/LeetCode/tree/master/1706-min-cost-to-connect-all-points) |
+## Graph
+|  |
+| ------- |
+| [1706-min-cost-to-connect-all-points](https://github.com/RookieJoel/LeetCode/tree/master/1706-min-cost-to-connect-all-points) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [1706-min-cost-to-connect-all-points](https://github.com/RookieJoel/LeetCode/tree/master/1706-min-cost-to-connect-all-points) |
 <!---LeetCode Topics End-->
