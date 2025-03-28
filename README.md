@@ -24,10 +24,12 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Array
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/RookieJoel/LeetCode/tree/master/0130-surrounded-regions) |
 | [1706-min-cost-to-connect-all-points](https://github.com/RookieJoel/LeetCode/tree/master/1706-min-cost-to-connect-all-points) |
 ## Union Find
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/RookieJoel/LeetCode/tree/master/0130-surrounded-regions) |
 | [1706-min-cost-to-connect-all-points](https://github.com/RookieJoel/LeetCode/tree/master/1706-min-cost-to-connect-all-points) |
 ## Graph
 |  |
@@ -43,11 +45,13 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Depth-First Search
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/RookieJoel/LeetCode/tree/master/0130-surrounded-regions) |
 | [0744-network-delay-time](https://github.com/RookieJoel/LeetCode/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/RookieJoel/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/RookieJoel/LeetCode/tree/master/0130-surrounded-regions) |
 | [0744-network-delay-time](https://github.com/RookieJoel/LeetCode/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/RookieJoel/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
 ## Heap (Priority Queue)
@@ -66,4 +70,8 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0803-cheapest-flights-within-k-stops](https://github.com/RookieJoel/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/RookieJoel/LeetCode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+## Matrix
+|  |
+| ------- |
+| [0130-surrounded-regions](https://github.com/RookieJoel/LeetCode/tree/master/0130-surrounded-regions) |
 <!---LeetCode Topics End-->
