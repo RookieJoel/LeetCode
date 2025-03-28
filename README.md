@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Graph
 |  |
 | ------- |
+| [0310-minimum-height-trees](https://github.com/RookieJoel/LeetCode/tree/master/0310-minimum-height-trees) |
 | [0744-network-delay-time](https://github.com/RookieJoel/LeetCode/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/RookieJoel/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/RookieJoel/LeetCode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
@@ -46,12 +47,14 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/RookieJoel/LeetCode/tree/master/0130-surrounded-regions) |
+| [0310-minimum-height-trees](https://github.com/RookieJoel/LeetCode/tree/master/0310-minimum-height-trees) |
 | [0744-network-delay-time](https://github.com/RookieJoel/LeetCode/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/RookieJoel/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/RookieJoel/LeetCode/tree/master/0130-surrounded-regions) |
+| [0310-minimum-height-trees](https://github.com/RookieJoel/LeetCode/tree/master/0310-minimum-height-trees) |
 | [0744-network-delay-time](https://github.com/RookieJoel/LeetCode/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/RookieJoel/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
 ## Heap (Priority Queue)
@@ -74,4 +77,8 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/RookieJoel/LeetCode/tree/master/0130-surrounded-regions) |
+## Topological Sort
+|  |
+| ------- |
+| [0310-minimum-height-trees](https://github.com/RookieJoel/LeetCode/tree/master/0310-minimum-height-trees) |
 <!---LeetCode Topics End-->
