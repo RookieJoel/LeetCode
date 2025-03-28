@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/RookieJoel/LeetCode/tree/master/0130-surrounded-regions) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/RookieJoel/LeetCode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1706-min-cost-to-connect-all-points](https://github.com/RookieJoel/LeetCode/tree/master/1706-min-cost-to-connect-all-points) |
 ## Union Find
 |  |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0310-minimum-height-trees](https://github.com/RookieJoel/LeetCode/tree/master/0310-minimum-height-trees) |
 | [0744-network-delay-time](https://github.com/RookieJoel/LeetCode/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/RookieJoel/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/RookieJoel/LeetCode/tree/master/1171-shortest-path-in-binary-matrix) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/RookieJoel/LeetCode/tree/master/0130-surrounded-regions) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/RookieJoel/LeetCode/tree/master/1171-shortest-path-in-binary-matrix) |
 ## Topological Sort
 |  |
 | ------- |
