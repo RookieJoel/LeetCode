@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0310-minimum-height-trees](https://github.com/RookieJoel/LeetCode/tree/master/0310-minimum-height-trees) |
 | [0744-network-delay-time](https://github.com/RookieJoel/LeetCode/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/RookieJoel/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
+| [0813-all-paths-from-source-to-target](https://github.com/RookieJoel/LeetCode/tree/master/0813-all-paths-from-source-to-target) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/RookieJoel/LeetCode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1706-min-cost-to-connect-all-points](https://github.com/RookieJoel/LeetCode/tree/master/1706-min-cost-to-connect-all-points) |
 ## Minimum Spanning Tree
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0733-flood-fill](https://github.com/RookieJoel/LeetCode/tree/master/0733-flood-fill) |
 | [0744-network-delay-time](https://github.com/RookieJoel/LeetCode/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/RookieJoel/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
+| [0813-all-paths-from-source-to-target](https://github.com/RookieJoel/LeetCode/tree/master/0813-all-paths-from-source-to-target) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0733-flood-fill](https://github.com/RookieJoel/LeetCode/tree/master/0733-flood-fill) |
 | [0744-network-delay-time](https://github.com/RookieJoel/LeetCode/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/RookieJoel/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
+| [0813-all-paths-from-source-to-target](https://github.com/RookieJoel/LeetCode/tree/master/0813-all-paths-from-source-to-target) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/RookieJoel/LeetCode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/RookieJoel/LeetCode/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
 ## Heap (Priority Queue)
@@ -96,4 +99,8 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0310-minimum-height-trees](https://github.com/RookieJoel/LeetCode/tree/master/0310-minimum-height-trees) |
+## Backtracking
+|  |
+| ------- |
+| [0813-all-paths-from-source-to-target](https://github.com/RookieJoel/LeetCode/tree/master/0813-all-paths-from-source-to-target) |
 <!---LeetCode Topics End-->
