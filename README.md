@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0130-surrounded-regions](https://github.com/RookieJoel/LeetCode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/RookieJoel/LeetCode/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/RookieJoel/LeetCode/tree/master/0733-flood-fill) |
+| [1073-number-of-enclaves](https://github.com/RookieJoel/LeetCode/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/RookieJoel/LeetCode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/RookieJoel/LeetCode/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1706-min-cost-to-connect-all-points](https://github.com/RookieJoel/LeetCode/tree/master/1706-min-cost-to-connect-all-points) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0130-surrounded-regions](https://github.com/RookieJoel/LeetCode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/RookieJoel/LeetCode/tree/master/0200-number-of-islands) |
+| [1073-number-of-enclaves](https://github.com/RookieJoel/LeetCode/tree/master/1073-number-of-enclaves) |
 | [1706-min-cost-to-connect-all-points](https://github.com/RookieJoel/LeetCode/tree/master/1706-min-cost-to-connect-all-points) |
 ## Graph
 |  |
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0744-network-delay-time](https://github.com/RookieJoel/LeetCode/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/RookieJoel/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0813-all-paths-from-source-to-target](https://github.com/RookieJoel/LeetCode/tree/master/0813-all-paths-from-source-to-target) |
+| [1073-number-of-enclaves](https://github.com/RookieJoel/LeetCode/tree/master/1073-number-of-enclaves) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -69,6 +72,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0744-network-delay-time](https://github.com/RookieJoel/LeetCode/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/RookieJoel/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0813-all-paths-from-source-to-target](https://github.com/RookieJoel/LeetCode/tree/master/0813-all-paths-from-source-to-target) |
+| [1073-number-of-enclaves](https://github.com/RookieJoel/LeetCode/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/RookieJoel/LeetCode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/RookieJoel/LeetCode/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
 ## Heap (Priority Queue)
@@ -93,6 +97,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0130-surrounded-regions](https://github.com/RookieJoel/LeetCode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/RookieJoel/LeetCode/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/RookieJoel/LeetCode/tree/master/0733-flood-fill) |
+| [1073-number-of-enclaves](https://github.com/RookieJoel/LeetCode/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/RookieJoel/LeetCode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/RookieJoel/LeetCode/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
 ## Topological Sort
