@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0130-surrounded-regions](https://github.com/RookieJoel/LeetCode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/RookieJoel/LeetCode/tree/master/0200-number-of-islands) |
+| [0216-combination-sum-iii](https://github.com/RookieJoel/LeetCode/tree/master/0216-combination-sum-iii) |
 | [0463-island-perimeter](https://github.com/RookieJoel/LeetCode/tree/master/0463-island-perimeter) |
 | [0733-flood-fill](https://github.com/RookieJoel/LeetCode/tree/master/0733-flood-fill) |
 | [1073-number-of-enclaves](https://github.com/RookieJoel/LeetCode/tree/master/1073-number-of-enclaves) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Backtracking
 |  |
 | ------- |
+| [0216-combination-sum-iii](https://github.com/RookieJoel/LeetCode/tree/master/0216-combination-sum-iii) |
 | [0813-all-paths-from-source-to-target](https://github.com/RookieJoel/LeetCode/tree/master/0813-all-paths-from-source-to-target) |
 | [1331-path-with-maximum-gold](https://github.com/RookieJoel/LeetCode/tree/master/1331-path-with-maximum-gold) |
 <!---LeetCode Topics End-->
