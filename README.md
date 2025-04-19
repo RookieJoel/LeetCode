@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/RookieJoel/LeetCode/tree/master/0011-container-with-most-water) |
 | [0130-surrounded-regions](https://github.com/RookieJoel/LeetCode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/RookieJoel/LeetCode/tree/master/0200-number-of-islands) |
 | [0216-combination-sum-iii](https://github.com/RookieJoel/LeetCode/tree/master/0216-combination-sum-iii) |
@@ -134,4 +135,12 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0216-combination-sum-iii](https://github.com/RookieJoel/LeetCode/tree/master/0216-combination-sum-iii) |
 | [0813-all-paths-from-source-to-target](https://github.com/RookieJoel/LeetCode/tree/master/0813-all-paths-from-source-to-target) |
 | [1331-path-with-maximum-gold](https://github.com/RookieJoel/LeetCode/tree/master/1331-path-with-maximum-gold) |
+## Two Pointers
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/RookieJoel/LeetCode/tree/master/0011-container-with-most-water) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/RookieJoel/LeetCode/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
