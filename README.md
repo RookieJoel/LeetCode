@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/RookieJoel/LeetCode/tree/master/0011-container-with-most-water) |
+| [0090-subsets-ii](https://github.com/RookieJoel/LeetCode/tree/master/0090-subsets-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/RookieJoel/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0130-surrounded-regions](https://github.com/RookieJoel/LeetCode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/RookieJoel/LeetCode/tree/master/0200-number-of-islands) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Backtracking
 |  |
 | ------- |
+| [0090-subsets-ii](https://github.com/RookieJoel/LeetCode/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/RookieJoel/LeetCode/tree/master/0216-combination-sum-iii) |
 | [0813-all-paths-from-source-to-target](https://github.com/RookieJoel/LeetCode/tree/master/0813-all-paths-from-source-to-target) |
 | [1331-path-with-maximum-gold](https://github.com/RookieJoel/LeetCode/tree/master/1331-path-with-maximum-gold) |
@@ -146,4 +148,8 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0011-container-with-most-water](https://github.com/RookieJoel/LeetCode/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/RookieJoel/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0090-subsets-ii](https://github.com/RookieJoel/LeetCode/tree/master/0090-subsets-ii) |
 <!---LeetCode Topics End-->
